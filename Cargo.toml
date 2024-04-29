@@ -1,0 +1,15 @@
+[package]
+name = "march_env_logger_init"
+version = "0.1.1"
+authors = ["OldGodShen <2415479434@qq.com>"]
+description = "Quickly configure and initialize env_logger"
+repository = "https://github.com/MarchStudio/march_env_logger_init"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+chrono = "0.4.38"
+colored = "2.1.0"
+env_logger = "0.11.3"
+log = "0.4.21"
